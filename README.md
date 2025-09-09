@@ -9,9 +9,13 @@
 ## 🛠️ Tecnologias e Ferramentas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
 ![Kivy](https://img.shields.io/badge/Kivy-FF6F00?style=for-the-badge&logo=kivy&logoColor=white)  
+
 ![KivyMD](https://img.shields.io/badge/KivyMD-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 
 ---
@@ -27,7 +31,7 @@
 
 ## 🚀 Contribuições  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=elieber-fernandes&theme=radical&hide_border=false)  
+  
 
 <p align="center">
   <picture>
@@ -50,4 +54,4 @@
 ## 💡 Onde me encontrar  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eliebermartins/)  
-- 🐙 [GitHub](https://github.com/elieber-fernandes)  
+
