@@ -23,7 +23,7 @@
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elieber-fernandes&show_icons=true&theme=radical" height="180em"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieber-fernandes&layout=compact&theme=radical" height="180em"/>
 </p>
 
