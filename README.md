@@ -43,7 +43,6 @@
 ## 📂 Projetos em Destaque
 
 - [🔗 I Hate PDF WebApp](https://github.com/elieber-fernandes/i-hate-pdf-webapp) – Ferramenta web para manipulação de PDFs
-- [🔗 Jogo Mímica](https://github.com/elieber-fernandes/Jogo_Mimica) – Jogo divertido de mímicas feito em Python
 - [🔗 Dashboard Brasileirão](https://github.com/elieber-fernandes/dashboard_brasileirao) – Dashboard interativo com dados do Campeonato Brasileiro
 
 ---
