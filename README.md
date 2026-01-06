@@ -18,15 +18,6 @@
 ![Kivy](https://img.shields.io/badge/Kivy-FF6F00?style=for-the-badge&logo=kivy&logoColor=white)
 ![KivyMD](https://img.shields.io/badge/KivyMD-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieber-fernandes&layout=compact&theme=radical" height="180em"/>
-</p>
-
----
 
 ## 🚀 Contribuições
 
