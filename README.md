@@ -31,13 +31,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-
-- [🔗 I Hate PDF WebApp](https://github.com/elieber-fernandes/i-hate-pdf-webapp) – Ferramenta web para manipulação de PDFs
-- [🔗 Dashboard Brasileirão](https://github.com/elieber-fernandes/dashboard_brasileirao) – Dashboard interativo com dados do Campeonato Brasileiro
-
----
-
 ## 💡 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eliebermartins/)
